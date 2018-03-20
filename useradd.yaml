@@ -7,5 +7,4 @@
 
     - name: Adding user
       user: name={{ username }} password={{ password }}
-
-    
+   
